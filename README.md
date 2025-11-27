@@ -515,3 +515,7 @@ For a complete list of changes and version history, see the [CHANGELOG.md](CHANG
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## For transient dependencies
+
+Follow the `extra-utils\README.md` file.
